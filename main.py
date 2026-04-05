@@ -28,7 +28,7 @@ if not BOT_TOKEN:
     logger.error("❌ BOT_TOKEN not found! Please set your bot token in environment variables.")
     sys.exit(1)
 
-REQUIRED_CHANNELS = ["@likeml2004"]
+REQUIRED_CHANNELS = ["@likeml2004bot"]
 GROUP_JOIN_LINK = "https://t.me/likemlgroup"
 OWNER_ID = your tg user id (8529644693)    #Example: 6282811167
 OWNER_USERNAME = "@Luffy"
